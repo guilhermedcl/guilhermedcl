@@ -1,4 +1,4 @@
-What's up, I'm Guilherme! 👋
+**What's up, I'm Guilherme! 👋**
 
 -💻 19 Years old 
 
