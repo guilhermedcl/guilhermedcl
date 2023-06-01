@@ -5,7 +5,7 @@ What's up, I'm Guilherme! 👋
 -🌱I am currently studying programming logic.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guguetson&show_icons=true)
+
 
 <picture>
 <source
