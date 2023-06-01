@@ -20,7 +20,6 @@ What's up, I'm Guilherme! 👋
 <img src="https://github-readme-stats.vercel.app/api?username=Guguetson&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guguetson)](https://github.com/Guguetson/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guguetson&layout=compact)](https://github.com/Guguetson/github-readme-stats)
 
