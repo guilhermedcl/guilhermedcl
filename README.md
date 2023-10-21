@@ -1,7 +1,7 @@
-**What's up, I'm Guilherme! 👋**
+### What's up, I'm Guilherme! 👋
 
-💻 20 Years old 
-🎓 Systems Development Analyst at CESUSC (2023-2024) 
+💻 20 Years old<br/>
+🎓 Systems Development Analyst at CESUSC (2023-2024)<br/> 
 🌱I am currently studying programming logic.
 
  
