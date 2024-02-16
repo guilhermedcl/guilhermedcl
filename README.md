@@ -3,6 +3,7 @@ Hi 👋 My name is Guilherme
 
 * 🌍  I'm based in Santa Catarina, Brazil
 * 💻 20 Years old
+* ✉️  You can contact me at [guilhermedclarroide@gmail.com](mailto:guilhermedclarroide@gmail.com)
 * 🎓 Systems Development Analyst at CESUSC (2023-2024).
   
 ### Skills
