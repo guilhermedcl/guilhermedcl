@@ -2,7 +2,6 @@
 
 💻 20 Years old<br/>
 🎓 Systems Development Analyst at CESUSC (2023-2024)<br/> 
-🌱I am currently studying programming logic.
 
  
 
