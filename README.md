@@ -35,7 +35,6 @@
 <br/>
   
  <h3 align="center"> ⭐ My GitHub Stats! </h3>
-<br/>
 <div align="center">
     <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guilhermedcl&show_icons=true&theme=transparent" style="width: 400px; height: auto;" />
 </div>
