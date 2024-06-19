@@ -1,42 +1,46 @@
-Hi 👋 My name is Guilherme
-===============================
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 
-* 🌍  I'm based in Santa Catarina, Brazil
-* 💻 20 Years old
-* ✉️  You can contact me at [guilhermedclarroide@gmail.com](mailto:guilhermedclarroide@gmail.com)
-* 🎓 Systems Development Analyst at CESUSC (2023-2024).
-  
-### Skills
+<h3 align="center"> Hi 👋 My name is Guilherme </h3>
+<br/>
 
-
-<p align="left">
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
- <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-
-
-### Learning
-
-<p align="left">
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
- <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-</p>
-  
-
+<div align="center">
  
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ 🌍  I'm based in Santa Catarina, Brazil
  
-<b>My GitHub Stats</b>
+ 💻 20 Years old
 
-<a href="http://www.github.com/guilhermedcl"><img src="https://github-readme-stats.vercel.app/api?username=guilhermedcl&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Guilherme's GitHub stats" /></a>
+ ✉️  You can contact me at [guilhermedclarroide@gmail.com](mailto:guilhermedclarroide@gmail.com)
 
+ 🎓 Systems Development Analyst at CESUSC (2023-2024)
+
+ </div>
+
+ <br/>
+
+ <h3 align="center"> 👨‍💻 Stack </h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=,python,html,css,javascript,nodejs,express,jest,mongodb,mysql,git,npm,postman,figma,vscode,windows" /><br>
+</div>
+
+<br/>
+
+ <h3 align="center"> 🧠 Learning </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,react" /><br>
+</div>
+
+<br/>
+  
+ <h3 align="center"> ⭐ My GitHub Stats! </h3>
+<br/>
+<div align="center">
+    <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guilhermedcl&show_icons=true&theme=transparent" style="width: 400px; height: auto;" />
+</div>
+
+<br/>
+
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
