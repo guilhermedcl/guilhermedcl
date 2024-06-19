@@ -26,14 +26,14 @@
  <h3 align="center"> 👨‍💻 Stack </h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=,python,html,css,javascript,nodejs,express,jest,mongodb,mysql,git,npm,postman,figma,vscode,windows" /><br>
+  <img src="https://skillicons.dev/icons?i=,python,html,css,javascript,nodejs,express,jest,mongodb,mysql,git,npm,postman,figma,vscode,windows" />
 </div>
 
 <br/>
 
  <h3 align="center"> 🧠 Learning </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,react" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,react" />
 </div>
 
 <br/>
@@ -41,7 +41,7 @@
   
  <h3 align="center"> ⭐ My GitHub Stats! </h3>
 <div align="center">
-    <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guilhermedcl&show_icons=true&theme=transparent" style="width: 400px; height: auto;" />
+    <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guilhermedcl&show_icons=true&theme=transparent" style="width: 400px; height: auto;"/>
 </div>
 
 <br/>
