@@ -24,7 +24,6 @@
  <br/>
 
  <h3 align="center"> 👨‍💻 Stack </h3>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=,python,html,css,javascript,nodejs,express,jest,mongodb,mysql,git,npm,postman,figma,vscode,windows" />
 </div>
