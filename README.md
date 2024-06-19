@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" style="width: 600px; height: auto;" alt="Software Developer">
 </div>
 
 <h3 align="center"> Hi 👋 My name is Guilherme </h3>
@@ -9,11 +9,11 @@
  
  🌍  I'm based in Santa Catarina, Brazil
  
- 💻 20 Years old
+ 👨🏻 20 Years old 
 
- ✉️  You can contact me at [guilhermedclarroide@gmail.com](mailto:guilhermedclarroide@gmail.com)
+ 📫  You can reach me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:{SeuEmail})](mailto:guilhermedclarroide@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-larroide/)](https://www.linkedin.com/in/guilherme-larroide/)
 
- 🎓 Systems Development Analyst at CESUSC (2023-2024)
+ 🎓 Systems Development Analyst at CESUSC (2023-2024) 
 
  </div>
 
