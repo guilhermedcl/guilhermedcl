@@ -40,7 +40,8 @@
   
  <h3 align="center"> ⭐ My GitHub Stats! </h3>
 <div align="center">
-    <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guilhermedcl&show_icons=true&theme=transparent" style="width: 400px; height: auto;"/>
+    <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guilhermedcl&hide=stars&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" style="width: 400px; height: auto;"/>
+    <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedcl&layout=compact&langs_count=8&theme=transparent&include_all_commits=true&count_private=true" style="width: 280px; height: auto;"/>
 </div>
 
 <br/>
