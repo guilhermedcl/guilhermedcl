@@ -11,34 +11,35 @@
 
 <div align="center">
  
- 🌍  I'm based in Santa Catarina, Brazil
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" />  I'm based in Santa Catarina, Brazil
  
- 👨🏻 21 Years old 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Man Raising Hand Light Skin Tone" width="25" height="25" /> 21 Years old 
 
- 📫  You can reach me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:{SeuEmail})](mailto:guilhermedclarroide@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-larroide/)](https://www.linkedin.com/in/guilherme-larroide/)
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" />  You can reach me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:{SeuEmail})](mailto:guilhermedclarroide@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-larroide/)](https://www.linkedin.com/in/guilherme-larroide/)
 
- 🎓 Systems Development Analyst at CESUSC (2023-2024) 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="25" height="25" /> Systems Development Analyst at CESUSC (2023-2024) 
 
  </div>
 
  <br/>
 
- <h3 align="center"> 👨‍💻 Stack </h3>
+ <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Stack </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,express,jest,mongodb,mysql,git,npm,postman,figma,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,express,jest,mongodb,mysql,git,githubnpm,postman,figma,vscode,windows" />
 </div>
 
 <br/>
 
- <h3 align="center"> 🧠 Learning </h3>
+ <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Learning </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,react" />
+  <img src="https://skillicons.dev/icons?i=aws,react,ts,nest,docker" />
+ 
 </div>
 
 <br/>
 <br/>
   
- <h3 align="center"> ⭐ My GitHub Stats! </h3>
+ <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> My GitHub Stats! </h3>
 <div align="center">
     <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guilhermedcl&hide=stars&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" style="width: 400px; height: auto;"/>
     <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedcl&layout=compact&langs_count=8&theme=transparent&include_all_commits=true&count_private=true" style="width: 280px; height: auto;"/>
