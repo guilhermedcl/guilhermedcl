@@ -42,7 +42,7 @@
  <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> My GitHub Stats! </h3>
 <div align="center">
     <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guilhermedcl&hide=stars&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" style="width: 400px; height: auto;"/>
-    <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedcl&layout=compact&langs_count=8&theme=transparent&include_all_commits=true&count_private=true" style="width: 280px; height: auto;"/>
+    <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedcl&layout=compact&langs_count=5&theme=transparent&include_all_commits=true&count_private=true" style="width: 280px; height: auto;"/>
 </div>
 
 <br/>
