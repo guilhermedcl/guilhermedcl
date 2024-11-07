@@ -17,7 +17,7 @@
 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" />  You can reach me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:{guilhermedclarroide@gmail.com})](mailto:guilhermedclarroide@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-larroide/)](https://www.linkedin.com/in/guilherme-larroide/)
 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="25" height="25" /> Systems Development Analyst at CESUSC (2023-2024) 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="25" height="25" /> Systems Development Analyst at UNICESUSC (2023-2024) 
 
  </div>
 
