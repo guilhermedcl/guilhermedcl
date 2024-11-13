@@ -25,14 +25,14 @@
 
  <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Stack </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,express,jest,mongodb,mysql,git,github,npm,postman,figma,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,react,javascript,nodejs,express,jest,mongodb,mysql,git,github,githubactions,npm,postman,figma,vscode,windows" />
 </div>
 
 <br/>
 
  <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Learning </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,react,ts,nest,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,ts,nest,docker" />
  
 </div>
 
